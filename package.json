@@ -11,5 +11,7 @@
     "react-dom": "^latest",
     "lucide-react": "^latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4"
+  }
 }
